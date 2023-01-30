@@ -1,0 +1,12 @@
+E:\VsProjects\Geometry\Geometry\bin\Debug\net6.0\Geometry.deps.json
+E:\VsProjects\Geometry\Geometry\bin\Debug\net6.0\Geometry.dll
+E:\VsProjects\Geometry\Geometry\bin\Debug\net6.0\Geometry.pdb
+E:\VsProjects\Geometry\Geometry\obj\Debug\net6.0\Geometry.csproj.AssemblyReference.cache
+E:\VsProjects\Geometry\Geometry\obj\Debug\net6.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsProjects\Geometry\Geometry\obj\Debug\net6.0\Geometry.AssemblyInfoInputs.cache
+E:\VsProjects\Geometry\Geometry\obj\Debug\net6.0\Geometry.AssemblyInfo.cs
+E:\VsProjects\Geometry\Geometry\obj\Debug\net6.0\Geometry.csproj.CoreCompileInputs.cache
+E:\VsProjects\Geometry\Geometry\obj\Debug\net6.0\Geometry.dll
+E:\VsProjects\Geometry\Geometry\obj\Debug\net6.0\refint\Geometry.dll
+E:\VsProjects\Geometry\Geometry\obj\Debug\net6.0\Geometry.pdb
+E:\VsProjects\Geometry\Geometry\obj\Debug\net6.0\ref\Geometry.dll
